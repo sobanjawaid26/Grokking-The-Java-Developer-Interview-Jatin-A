@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Error showing that we have to handle most specific exceptions first" isTestSource="false" packagePrefix="com.tech" />
+      <sourceFolder url="file://$MODULE_DIR$/Using multiple catch blocks" isTestSource="false" packagePrefix="com.tech" />
+      <sourceFolder url="file://$MODULE_DIR$/Using pipe symbol" isTestSource="false" packagePrefix="com.tech" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

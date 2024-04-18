@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/program showing checked exception are not propagated by default" isTestSource="false" packagePrefix="com.tech" />
+      <sourceFolder url="file://$MODULE_DIR$/program showing that checked exception is propagated using throws keyword" isTestSource="false" packagePrefix="com.tech" />
+      <sourceFolder url="file://$MODULE_DIR$/program showing that the propagated checked exception is handled by caller method" isTestSource="false" packagePrefix="com.tech" />
+      <sourceFolder url="file://$MODULE_DIR$/program showing that throws keyword is not needed with unchecked exception" isTestSource="false" packagePrefix="com.tech" />
+      <sourceFolder url="file://$MODULE_DIR$/program showing unchecked exceptions are propagated by default" isTestSource="false" packagePrefix="com.tech" />
+      <sourceFolder url="file://$MODULE_DIR$/program showing usage of throws keyword with unchecked exception" isTestSource="false" packagePrefix="com.tech" />
+      <sourceFolder url="file://$MODULE_DIR$/when propagated unchecked exception is handled" isTestSource="false" packagePrefix="com.tech" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

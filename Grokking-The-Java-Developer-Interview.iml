@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Question 002_What is an abstract class" isTestSource="false" packagePrefix="com.tech" />
+      <sourceFolder url="file://$MODULE_DIR$/Question 007_Why Java 8 has introduced default methods" isTestSource="false" packagePrefix="com.tech" />
+      <sourceFolder url="file://$MODULE_DIR$/Question 016_What are the different types of exceptions" isTestSource="false" packagePrefix="com.tech" />
+      <sourceFolder url="file://$MODULE_DIR$/Question 017_How exception handling is done in java" isTestSource="false" packagePrefix="com.tech" />
+      <sourceFolder url="file://$MODULE_DIR$/Question 024_How to make your own custom exception class" isTestSource="false" packagePrefix="com.tech" />
+      <sourceFolder url="file://$MODULE_DIR$/Question 027_What will be Output of below program related to try-catch-finally" isTestSource="false" packagePrefix="com.tech" />
+      <sourceFolder url="file://$MODULE_DIR$/Question 028_Explain try-with-resources" isTestSource="false" packagePrefix="com.exception" />
+      <sourceFolder url="file://$MODULE_DIR$/Question 030_What does the equals() method of String class do" isTestSource="false" packagePrefix="com.test" />
+      <sourceFolder url="file://$MODULE_DIR$/Question 032_Explain the output of below program related to equals() method of StringBuilder" isTestSource="false" packagePrefix="com.string" />
+      <sourceFolder url="file://$MODULE_DIR$/Question 038_How to compare a list of Employees based on name and age" isTestSource="false" packagePrefix="com.sort" />
+      <sourceFolder url="file://$MODULE_DIR$/Question 043_Explain Auto-boxing and Un-boxing" isTestSource="false" packagePrefix="com.test" />
+      <sourceFolder url="file://$MODULE_DIR$/Question 044_Find the output of below program" isTestSource="false" packagePrefix="com.test" />
+      <sourceFolder url="file://$MODULE_DIR$/Question 045_Can you pass primitive long in switch statement" isTestSource="false" packagePrefix="com.test" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
